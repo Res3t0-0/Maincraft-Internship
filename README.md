@@ -22,8 +22,8 @@
 
 
 # Task - 2 Basic Analysis on Titanic Dataset
-## For the above task i did:
-  ## Answer questions such as:
+I Analyzed the Titanic dataset for this task
+  ## Answered questions such as:
   * Who survived more: males or females?
   * Did passenger class affect survival chances?
   * What was the survival rate by age group?
