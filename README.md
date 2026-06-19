@@ -1,4 +1,4 @@
-<img width="564" height="455" alt="image" src="https://github.com/user-attachments/assets/406af76e-fa51-47c1-81ba-5c9ab5f5a1cf" /># Task 1 - Student Dataset Basic Data Analysis
+# Task 1 - Student Dataset Basic Data Analysis
 ## For the above task i did:
 * basic data exploration like finding the shape, columns etc of the dataset
 * basic statistical Analysis such as finding average grade, finding the study time correlation with grades
@@ -36,3 +36,21 @@ I Analyzed the Titanic dataset for this task
 
 ### The Survival Rate was higher in class 1 followed by 2 and 3
 
+<img width="564" height="455" alt="image" src="https://github.com/user-attachments/assets/406af76e-fa51-47c1-81ba-5c9ab5f5a1cf" />
+
+### The Survival Rate was higher for females than the males
+
+
+# Task - 3 Mini Exploratory Data Analysis
+In this task, I:
+* Handle missing values better (imputation).
+* Use groupby to find deeper insights.
+* Create multiple visualizations to tell a story.
+
+<img width="570" height="455" alt="image" src="https://github.com/user-attachments/assets/00a0c445-8d41-423f-9b64-dfed66098c20" />
+
+### This shows smaller the family size greater the survival rate
+
+<img width="557" height="433" alt="image" src="https://github.com/user-attachments/assets/a339730a-e257-4db8-b4d5-1e5e76da45a9" />
+
+### Heatmap to show Correlation between various data
