@@ -47,7 +47,7 @@ In this task, I:
 * Use groupby to find deeper insights.
 * Create multiple visualizations to tell a story.
 
-<img width="570" height="455" alt="image" src="https://github.com/user-attachments/assets/00a0c445-8d41-423f-9b64-dfed66098c20" />
+<img width="574" height="457" alt="image" src="https://github.com/user-attachments/assets/bbc03036-5c1b-48d7-badd-9ae4aaaa20e9" />
 
 ### This shows smaller the family size greater the survival rate
 
